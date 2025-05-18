@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "dynamicTitle": "Curtis Stone's tomato and bread salad with BBQ eggplant and capsicum",
+      "dynamicDescription": "For a crowd-pleasing salad, try this tasty combination of fresh tomato, crunchy bread and BBQ veggies. It’s topped with fresh basil and oregano for a finishing touch. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Tomato-and-bread-salad-480x288.jpg",
+      "dynamicThumbnailAlt": "Tomato, bread and eggplant salad served in a large plate topped with basil leaves with vinaigrette on the side",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 8,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "prepNote": "+ cooling time",
+        "cookingLabel": "Cooking",
+        "cookingTime": "15m",
+        "cookTimeAsMinutes": 15,
+        "prepTimeAsMinutes": 15
+      }
+    },
+    {
+      "ingredients": [
+        {
+          "ingredient": "800g butternut pumpkin, peeled, seeded, finely chopped"
+        },
+        {
+          "ingredient": "250g smooth ricotta"
+        },
+        {
+          "ingredient": "100g goats cheese"
+        },
+        {
+          "ingredient": "1/4 cup (60ml) thickened cream"
+        },
+        {
+          "ingredient": "500g Coles Potato Gnocchi "
+        },
+        {
+          "ingredient": "1 tbs olive oil"
+        },
+        {
+          "ingredient": "120g baby rocket leaves"
+        }
+      ]
+    }
+  ]
+}
